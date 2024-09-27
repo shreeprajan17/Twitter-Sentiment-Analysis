@@ -2,6 +2,7 @@ import nltk
 import streamlit as st
 import joblib
 import re
+import sklearn
 from nltk.corpus import stopwords
 
 # Loading pre-trained model and vectorizer
